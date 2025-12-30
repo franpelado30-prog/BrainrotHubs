@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Franpelado30/BrainrotHub/main/BrainrotHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Franpelado30-prog/Brainrothubs/main/BrainrotHub.lua"))()
